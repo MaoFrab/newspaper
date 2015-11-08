@@ -1,5 +1,6 @@
 # newspaper
 
+* * *
 
 This application have 3 users:
 

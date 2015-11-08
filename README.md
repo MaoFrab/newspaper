@@ -4,15 +4,15 @@
 
 This application have 3 users:
 
-  ## -public user (anonymus):
+   -public user (anonymus):
   
     Can read news Articles, no more;
     
-  ## -authentication user:
+   -authentication user:
   
     Can read news Articles and Articles-body;
     
-  ## -admin user:
+   -admin user:
   
     Can anything :)
     

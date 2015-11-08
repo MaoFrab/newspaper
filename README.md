@@ -18,4 +18,10 @@ This application have 3 users:
     
     Create, read, update, delete articles, tags, users;
   
+   -Access to admin-panel have user with ROLE_SUPER_ADMIN:
+    /admin
+    
+   Tags are sorted on their popularity;
+   The popularity of tags increases if a user opens an article;
+  
   Sorry for CSS.
